@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+
+<link rel="stylesheet" href="../css/friday_pub.css">
+<link href='http://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<title>Project group 22</title>
+</head>
+<body>
+<h1>Project group 22 Bank</h1>
+<div class="logout">Logged in as:
+    svetor        	<a href="../common/logout.php">(logout)</a>
+</div>
+<ul class="menu">
+    <li><a href="../admin/inventory.php">BEERS</a></li>
+    <li><a href="../admin/iou.php">BANK</a></li>
+    <li><a href="../admin/payment.php">PAYMENT</a></li>
+    <li><a href="../admin/purchase.php">SCETCH</a></li>
+    <li><a href="../admin/simple_purchase.php">BUYBUY</a></li>
+    <li><a href="../admin/add_user.php">ADD CUSTOMER</a></li>
+</ul>
+<div class="clearfix"></div>
+Welcome Svetlana Torres
+</body>
+</html>
+
+
+</body>
+</html>
